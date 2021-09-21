@@ -1,4 +1,9 @@
-# LG d410 skin
+# LG d410 skin [🇺🇦](https://github.com/RutarAndriy/LG_d410_skin/blob/master/README.ua.md) [🇬🇧](https://github.com/RutarAndriy/LG_d410_skin/blob/master/README.md)
+
+[![License](https://img.shields.io/github/license/RutarAndriy/LG_d410_skin?color=%23FF5555)](https://opensource.org/licenses/MIT)
+[![Repo-Size](https://img.shields.io/github/repo-size/RutarAndriy/LG_d410_skin)](https://github.com/RutarAndriy/LG_d410_skin)
+[![Fork](https://img.shields.io/github/forks/RutarAndriy/LG_d410_skin?style=social&label=Fork)](https://github.com/RutarAndriy/LG_d410_skin/fork)
+
 LG d410 phone skin for Android Emulator
 
 <img src="/screenshots/screenshot_01.png" width="270" height="518"> <img src="/screenshots/screenshot_02.png" width="270" height="518"> <img src="/screenshots/screenshot_03.png" width="270" height="518">
