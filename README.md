@@ -6,7 +6,11 @@
 
 LG d410 phone skin for Android Emulator
 
-<img src="/screenshots/screenshot_01.png" width="270" height="518"> <img src="/screenshots/screenshot_02.png" width="270" height="518"> <img src="/screenshots/screenshot_03.png" width="270" height="518">
+<p align="center">
+  <img src="/screenshots/screenshot_01.png" width="270" height="518">
+  <img src="/screenshots/screenshot_02.png" width="270" height="518">
+  <img src="/screenshots/screenshot_03.png" width="270" height="518">
+</p>
 
 ## Instructions
   - Copy "lg_d410" folder to "skins" folder your Android SDK
