@@ -6,7 +6,11 @@
 
 Графічна оболонка телефону LG d410 для емулятора Android
 
-<img src = "/screenshots/screenshot_01.png" width = "270" height = "518"> <img src = "/screenshots/screenshot_02.png" width = "270" height = "518"> <img src = "/screenshots/screenshot_03.png" width = "270" height = "518">
+<p align="center">
+  <img src="/screenshots/screenshot_01.png" width="270" height="518">
+  <img src="/screenshots/screenshot_02.png" width="270" height="518">
+  <img src="/screenshots/screenshot_03.png" width="270" height="518">
+</p>
 
 ## Інструкція
   - Скопіюйте папку "lg_d410" у директорію "skins" вашого Android SDK
